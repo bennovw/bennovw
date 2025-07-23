@@ -1,6 +1,6 @@
-## Hi there! 👋 I'm Benno Van Waeyenberg
+## Hi there, I'm Benno 👋
 
-### Full Stack Software Engineer - Backend Focused
+### Full Stack Software Engineer (Backend Focused)
 
 I'm a passionate full stack developer with 4+ years of experience building scalable SaaS applications using **Go** and **Flutter**. My dev journey started in 2016 automating IT tasks using REST APIs, SQL, and PowerShell, which led to discovering my love for solving complex problems through code.
 
@@ -30,5 +30,5 @@ I'm a passionate full stack developer with 4+ years of experience building scala
 
 Originally from Belgium, but having lived in both the USA and Mexico, I bring a global perspective with experience across multiple continents. I'm fluent in English, Spanish, and Dutch, and passionate about delivering maintainable, high-quality software that solves real business problems.
 
-📬 **Let's connect!** 
+### 📬 Let's connect! 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/benno-van-waeyenberg-a9b12591/). I'm always open to discussing interesting projects, collaborations, or just chatting about technology!
